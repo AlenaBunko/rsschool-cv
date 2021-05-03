@@ -1,6 +1,6 @@
 1. Bunko Alena
 2. My contacts: tel.+375295297659, email: vesna2512@mail.ru
-3. I have been studying java programming language for two years now. It is simply impossible to convey the sensations when you open another site, or install any program, you immediately think what code it has. This is really cool and I would like to continue learning programming and improve my professional level.
+3. I have been studying java programming language for two years now. It is simply impossible to convey the sensations when you open another site, or install any program, you immediately think what code it has. This is really cool and I would like to continue learning programming and improve my professional level.Possessing a mathematical mindset and having a sufficiently high level of self-organization, I am sure that in the process of learning there will be no problems with me
 4. Frameworks: Spring, Hibernate. 
    Database: MySQL, Postgresql
 5. My study projects: https://github.com/AlenaBunko
